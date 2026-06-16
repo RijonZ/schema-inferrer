@@ -1,0 +1,11 @@
+id,full_name,email,age,signup_date,is_active,country,notes
+1,Alice Johnson,alice@example.com,29,2023-01-15,true,USA,
+2,Bob Smith,bob@example.com,thirty-one,2023-02-20,false,Canada,VIP customer
+3,Carol White,,34,2023-03-05,true,UK,
+4,David Brown,david@example.com,,2023-04-11,1,USA,
+5,Eve Davis,eve@example.com,41,N/A,false,Germany,
+6,Frank Miller,frank@example.com,52,2023-05-30,true,USA,Referred by Alice
+7,Grace Wilson,grace@example.com,23,2023-06-18,yes,France,
+8,Heidi Moore,heidi@example.com,37,2023-07-02,true,USA,
+9,Ivan Clark,,29,2023-07-21,false,Canada,
+10,Judy Taylor,judy@example.com,45,2023-08-09,true,UK,Newsletter subscriber
